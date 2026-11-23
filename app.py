@@ -1,3 +1,4 @@
+# KR2: Proshin
 import os
 import socket
 
